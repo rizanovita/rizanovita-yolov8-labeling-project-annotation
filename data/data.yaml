@@ -1,0 +1,14 @@
+names:
+- mobil
+- motor
+- transjakarta
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: my-first-project-zrdau
+  url: https://universe.roboflow.com/transportasi-h7ccf/my-first-project-zrdau/dataset/4
+  version: 4
+  workspace: transportasi-h7ccf
+test: /content/My-First-Project-4/test/images
+train: /content/My-First-Project-4/train/images
+val: /content/My-First-Project-4/valid/images
