@@ -21,7 +21,7 @@ yolov8-labeling-project/
 ├── 📂 [Buka folder `valid`](./valid/) # Data validasi
 ├── 📂 [Buka folder `test`](./test/) # Data pengujian
 ├── README.md # Dokumentasi proyek
-├── [📄 Lihat file best(2).pt](data/best (2).ptt) # Model hasil training
+├── [📄 Lihat file best(2).pt](data/best (2).pt) # Model hasil training
 ├── [📄 Lihat file results.md](data/results.md)  # Catatan hasil training/inference
 
 ---
