@@ -218,10 +218,10 @@ Hasil Positif:
 
 
 ## Confusion matrix
-![Contoh Labeling](data/confusion_matrix (2).png)
+![Contoh Labeling](data/confusion_matrix(2).png) 
 
 ## Results
-![Contoh Labeling](data/results (1).png)
+![Contoh Labeling](data/results(1).png)
 
 ## 📬 Contact
 
