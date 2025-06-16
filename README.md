@@ -44,7 +44,7 @@ Dataset dibuat dan dilabeli secara manual menggunakan Roboflow, lalu diekspor da
 
 > ⚠️ Gambar & label hanya digunakan untuk keperluan edukasi dan demonstrasi portofolio.
 
-![Contoh Labeling](data/download (2).jpg)
+![Contoh Labeling](data/download(2).jpg)
 
 ---
 
