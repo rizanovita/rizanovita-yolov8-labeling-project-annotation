@@ -17,12 +17,18 @@ Proyek ini mencakup proses:
 yolov8-labeling-project/
 
 ├── [📄 Lihat file data.yaml](data/data.yaml)
+
 ├── 📂 [Buka folder `train`](./train/) # Data training
+
 ├── 📂 [Buka folder `valid`](./valid/) # Data validasi
+
 ├── 📂 [Buka folder `test`](./test/) # Data pengujian
+
 ├── README.md # Dokumentasi proyek
-├── [📄 Lihat file best(2).pt](data/best (2).pt) # Model hasil training
-├── [📄 Lihat file results.md](data/results.md)  # Catatan hasil training/inference
+
+├── [📄 Lihat file best(2).pt](./data/best (2).pt) # Model hasil training
+
+├── [📄 Lihat file results.md](./data/results.md)  # Catatan hasil training/inference
 
 ---
 
