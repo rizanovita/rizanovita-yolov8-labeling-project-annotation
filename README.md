@@ -44,7 +44,7 @@ Dataset dibuat dan dilabeli secara manual menggunakan Roboflow, lalu diekspor da
 
 > ⚠️ Gambar & label hanya digunakan untuk keperluan edukasi dan demonstrasi portofolio.
 
-![Contoh Labeling](data/download(2).jpg)
+![Contoh Labeling](data/download.jpg)
 
 ---
 
@@ -218,10 +218,10 @@ Hasil Positif:
 
 
 ## Confusion matrix
-![Contoh Labeling](data/confusion_matrix(2).png) 
+![Contoh Labeling](data/confusion_matrix.png)
 
 ## Results
-![Contoh Labeling](data/results(1).png)
+![Contoh Labeling](data/results.png)
 
 ## 📬 Contact
 
